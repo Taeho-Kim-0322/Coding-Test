@@ -3,12 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="c654d498-7e15-49b3-be66-2318ad116345" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greedy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20200909_realization.py" beforeDir="false" afterPath="$PROJECT_DIR$/20200909_realization.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Coding_Study" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -21,6 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1hDsKgT4xTkbPIvoksglkSxTSsR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -119,27 +125,30 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="638" y="152" key="#Greedy" timestamp="1599556967099">
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
     <state x="638" y="152" key="#Greedy/0.0.1844.1080@0.0.1844.1080" timestamp="1599556967099" />
-    <state width="1823" height="295" key="GridCell.Tab.0.bottom" timestamp="1599640577496">
+    <state width="898" height="332" key="GridCell.Tab.0.bottom" timestamp="1599641545425">
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
-    <state width="1823" height="295" key="GridCell.Tab.0.bottom/0.0.1844.1080@0.0.1844.1080" timestamp="1599640577496" />
-    <state width="1823" height="295" key="GridCell.Tab.0.center" timestamp="1599640577496">
+    <state width="898" height="332" key="GridCell.Tab.0.bottom/0.0.1844.1080@0.0.1844.1080" timestamp="1599641545425" />
+    <state width="898" height="332" key="GridCell.Tab.0.center" timestamp="1599641545425">
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
-    <state width="1823" height="295" key="GridCell.Tab.0.center/0.0.1844.1080@0.0.1844.1080" timestamp="1599640577496" />
-    <state width="1823" height="295" key="GridCell.Tab.0.left" timestamp="1599640577496">
+    <state width="898" height="332" key="GridCell.Tab.0.center/0.0.1844.1080@0.0.1844.1080" timestamp="1599641545425" />
+    <state width="898" height="332" key="GridCell.Tab.0.left" timestamp="1599641545425">
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
-    <state width="1823" height="295" key="GridCell.Tab.0.left/0.0.1844.1080@0.0.1844.1080" timestamp="1599640577496" />
-    <state width="1823" height="295" key="GridCell.Tab.0.right" timestamp="1599640577496">
+    <state width="898" height="332" key="GridCell.Tab.0.left/0.0.1844.1080@0.0.1844.1080" timestamp="1599641545425" />
+    <state width="898" height="332" key="GridCell.Tab.0.right" timestamp="1599641545425">
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
-    <state width="1823" height="295" key="GridCell.Tab.0.right/0.0.1844.1080@0.0.1844.1080" timestamp="1599640577496" />
+    <state width="898" height="332" key="GridCell.Tab.0.right/0.0.1844.1080@0.0.1844.1080" timestamp="1599641545425" />
     <state x="423" y="182" key="SettingsEditor" timestamp="1599556979104">
       <screen x="0" y="0" width="1844" height="1080" />
     </state>
