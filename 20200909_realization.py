@@ -1,4 +1,5 @@
 ######### 예제 4-1 상하좌우
+'''
 n = int(input())
 data = list(input().split())
 x, y = 1, 1
@@ -20,8 +21,21 @@ for m in data:
 
 
 print(nx, ny)
+'''
 
 
 
+######### 예제 4-2 시각
 
-#########
+n = int(input())
+count = 0
+
+for i in range(n+1):
+    for j in range(60):
+        for k in range(60):
+            if '3' in str(i) + str(j) + str(k):
+                #print(str(i) + str(j) + str(k))
+                count += 1
+
+print(count)
+
